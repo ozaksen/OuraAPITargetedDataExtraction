@@ -1,4 +1,5 @@
-# Oura Targeted Data Extraction
+# Oura Targeted Data Extraction 
+[![DOI](https://zenodo.org/badge/875390160.svg)](https://doi.org/10.5281/zenodo.13955989)
 
 This Python script facilitates the extraction of various data types from the Oura API, including sleep, activity, heart rate, personal information, and more. It allows users to retrieve specific data within a defined date range and store the results in a local directory.
 
